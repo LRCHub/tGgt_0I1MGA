@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "残像の愛し方",
+  "base_artist": "Tele",
+  "createdAt": "2025-12-02T06:28:54.547301Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "残像の愛し方",
+      "artist": "Tele",
+      "has_synced": false,
+      "path": "select/pl_01_残像の愛し方_Tele.txt"
+    }
+  ]
+}
